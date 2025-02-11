@@ -34,6 +34,10 @@ Assumindo que você tem o Docker instalado na sua máquina/ambiente, rodar na ra
     poetry RUN python src/maia/populate_new_data.py
 ```
 
+### usando gitpod
+cole a url no navegador e o ambiente será configurado.
+ `https://gitpod.io/new/#https://github.com/IamNatri/MAIA`
+
 
 
 ## Considerações
